@@ -39,6 +39,7 @@ b. Python-
 8. Insights Generation.
 
 c. PowerBI
+
 1.Power Query (Basic and Advanced Operations)
 2.Basic and complex DAX formulas
 3.Data modelling involving 10+ tables
