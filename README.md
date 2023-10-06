@@ -42,7 +42,7 @@ c. PowerBI
 
 1.Power Query (Basic and Advanced Operations)
 2.Basic and complex DAX formulas
-3.Data modelling involving 10+ tables
+3.Data modelling 
 4.Choosing the right visuals and formatting
 5.Dashboard designing principles
 6.Deploying in Power BI service
